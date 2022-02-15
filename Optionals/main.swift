@@ -1,6 +1,6 @@
 import Foundation
 
-// PROBLEM 1.0 : AGE ENTRY
+//  PROBLEM 1.0 : AGE ENTRY
 //Imagine you have an app that asks the user to enter his/her age using the keyboard. When your app allows a user the input text, what is captured for you is given as a String. However, you want to store this information as an Int. Is it possible for the user to make a mistake and for the input to not match the type you want to store?
 
 
