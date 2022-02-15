@@ -4,7 +4,7 @@ Throughout the exercises in this playground, you will be printing optional value
 
 Swift’s optionals let you indicate the absence of a value for any type at all, without the need for special constants.
 
-You can reword this as saying the following
+ You can reword this as saying the following
 
     There IS a value, and it will be of type X, otherwise there will NOT be a value
     
